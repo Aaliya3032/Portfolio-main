@@ -1,1 +1,1 @@
-Netlify Link :- https://aaliyaportfolio.netlify.app
+Netlify Link :- https://aaliyaportfolio30.netlify.app/
